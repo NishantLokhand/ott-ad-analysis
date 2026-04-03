@@ -61,11 +61,13 @@ This ensures realistic, non-deterministic user behavior patterns.
 
 ### Excel Dashboard
 
-(Add screenshot here)
+<img width="1308" height="578" alt="excel_dashboard" src="https://github.com/user-attachments/assets/eb77bc42-2506-4d9e-a7ad-2fab3a50df15" />
+
 
 ### Power BI Dashboard
 
-(Add screenshot here)
+<img width="1001" height="559" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/16f98304-5074-426a-a7a2-be5997c8b1a6" />
+
 
 ## Note
 
